@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Tapestry&display=swap');
+
+*{
+    font-family: 'Tapestry', cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    color: rgb(219, 32, 32);
+}
+body{
+    background-image: url("https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/technology/apps/shutterstock_240459751.jpg");
+}
+.container .weather-card{
+    border: 3px solid rgb(81, 65, 65);
+    
+    margin: 200px auto 100px auto;
+    width: 40%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 5%;
+    background-color: whitesmoke;
+}
+h1,h2,h3,h4,h5{
+    padding: 10px;
+}
